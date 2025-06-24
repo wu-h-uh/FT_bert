@@ -1,0 +1,167 @@
+@@@
+Как	None	None	None	1
+только	None	None	None	1
+человек	None	None	None	1
+начал	None	None	None	1
+производить	None	None	None	1
+и	None	None	None	1
+хранить	None	None	None	1
+излишки	None	None	None	1
+зерна	None	None	None	1
+,	None	None	None	1
+рядом	None	None	None	1
+с	None	None	None	1
+ним	None	None	None	1
+сразу	None	None	None	1
+же	None	None	None	1
+появились	None	None	None	1
+мыши	None	None	None	1
+,	None	None	None	1
+а	None	None	None	1
+за	None	None	None	1
+ними	None	None	None	1
+пришли	None	None	None	1
+и	None	None	None	1
+коты	None	None	None	1
+.	None	None	None	1
+
+Так	None	None	None	1
+что	None	None	None	1
+хвостатые	None	None	None	1
+охранники	None	None	None	1
+сначала	None	None	None	1
+распространились	распространялись	MA	Aspect: imp/perf	1
+по	None	None	None	1
+миру	None	None	None	1
+вслед	None	None	None	1
+за	None	None	None	1
+мотыгой	мотыгами	MA	Number: pl/sg	1
+и	None	None	None	1
+серпом	серпами	MA	Number: pl/sg	1
+.	None	None	None	1
+
+@@@
+Как	None	None	None	1
+только	None	None	None	1
+человек	None	None	None	1
+начал	None	None	None	1
+производить	None	None	None	1
+и	None	None	None	1
+хранить	None	None	None	1
+излишки	None	None	None	1
+зерна	None	None	None	1
+,	None	None	None	1
+рядом	None	None	None	1
+с	None	None	None	1
+ним	None	None	None	1
+сразу	None	None	None	1
+же	None	None	None	1
+появились	None	None	None	1
+мыши	None	None	None	1
+,	None	None	None	1
+а	None	None	None	1
+за	None	None	None	1
+ними	None	None	None	1
+пришли	None	None	None	1
+и	None	None	None	1
+коты	None	None	None	1
+.	None	None	None	1
+
+Так	None	None	None	1
+что	None	None	None	1
+хвостатые	None	None	None	1
+охранники	None	None	None	1
+сначала	None	None	None	1
+распространялись	None	None	None	1
+по	None	None	None	1
+миру	None	None	None	1
+вслед	None	None	None	1
+за	None	None	None	1
+мотыгой	мотыгами	MA	Number: pl/sg	1
+и	None	None	None	1
+серпом	серпами	MA	Number: pl/sg	1
+.	None	None	None	1
+
+@@@
+Как	None	None	None	1
+только	None	None	None	1
+человек	None	None	None	1
+начал	None	None	None	1
+производить	None	None	None	1
+и	None	None	None	1
+хранить	None	None	None	1
+излишки	None	None	None	1
+зерна	None	None	None	1
+,	None	None	None	1
+рядом	None	None	None	1
+с	None	None	None	1
+ним	None	None	None	1
+сразу	None	None	None	1
+же	None	None	None	1
+появились	None	None	None	1
+мыши	None	None	None	1
+,	None	None	None	1
+а	None	None	None	1
+за	None	None	None	1
+ними	None	None	None	1
+пришли	None	None	None	1
+и	None	None	None	1
+коты	None	None	None	1
+.	None	None	None	1
+
+Так	None	None	None	1
+что	None	None	None	1
+хвостатые	None	None	None	1
+охранники	None	None	None	1
+сначала	None	None	None	1
+распространились	распространялись	MA	Aspect: imp/perf	1
+по	None	None	None	1
+миру	None	None	None	1
+вслед	None	None	None	1
+за	None	None	None	1
+мотыгами	None	None	None	1
+и	None	None	None	1
+серпами	None	None	None	1
+.	None	None	None	1
+
+@@@
+Как	None	None	None	1
+только	None	None	None	1
+человек	None	None	None	1
+начал	None	None	None	1
+производить	None	None	None	1
+и	None	None	None	1
+хранили	хранить	Err	None	0
+излишки	None	None	None	1
+зерна	None	None	None	1
+,	None	None	None	1
+рядом	None	None	None	1
+с	None	None	None	1
+ним	None	None	None	1
+сразу	None	None	None	1
+же	None	None	None	1
+появились	None	None	None	1
+мыши	None	None	None	1
+,	None	None	None	1
+а	None	None	None	1
+кроме	за	Err	None	0
+ними	None	None	None	1
+пришли	None	None	None	1
+и	None	None	None	1
+кот	коты	Err	None	0
+.	None	None	None	1
+
+Так	None	None	None	1
+что	None	None	None	1
+хвостатые	None	None	None	1
+охранники	None	None	None	1
+сначала	None	None	None	1
+распространялись	None	None	None	1
+по	None	None	None	1
+миру	None	None	None	1
+вслед	None	None	None	1
+за	None	None	None	1
+мотыги	мотыгами	Err	None	0
+и	None	None	None	1
+серпа	серпами	Err	None	0
+.	None	None	None	1
